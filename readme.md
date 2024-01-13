@@ -1,10 +1,6 @@
 # 基于mvc的新闻管理系统4
 
-## 获取方式
 
-扫描下方，回复关键词  ： “**新闻4**”   
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -31,31 +27,35 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309262153934.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202309262153934.jpg)
 
 ### 4.2 前端模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309262154746.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202309262154746.jpg)
 
-![新闻详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309262154811.jpg)
+![新闻详情](https://www.codeshop.fun/Typora-Images/202309262154811.jpg)
 
 ### 4.3 管理员模块
 
-![新闻管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309262154847.jpg)
+![新闻管理](https://www.codeshop.fun/Typora-Images/202309262154847.jpg)
 
-![新闻类别管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309262154410.jpg)
+![新闻类别管理](https://www.codeshop.fun/Typora-Images/202309262154410.jpg)
 
-![新闻评论维护](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309262154915.jpg)
+![新闻评论维护](https://www.codeshop.fun/Typora-Images/202309262154915.jpg)
 
-![友情链接管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309262154395.jpg)
+![友情链接管理](https://www.codeshop.fun/Typora-Images/202309262154395.jpg)
 
 ### 4.4 文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309262154351.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202309262154351.jpg)
 
 
 
+## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**新闻**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 
 
